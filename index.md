@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Welcome to my GitHub Pages site
 
-I'm glad you are here. I plan to talk about ...
+You won't find anything interesting here, I'm just learning the tech!
+:robot:
